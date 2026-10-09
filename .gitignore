@@ -5,4 +5,7 @@
 .vscode/
 *.layout
 *.win
-*.test
+
+# Compiled executables without extension
+test
+variables_datatypes
